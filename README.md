@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey, I'm Usman 👋🏽  
 
-<!--
-**usmanxtech/usmanxtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old student based in Pakistan, and I'm passionate about learning Front-End Development.
+- 😄 Pronouns: he\him
+- 🌱 I’m currently learning: Css
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Check out my [website](https://www.miraya.tech/) to learn more about me.
+- Explore my [blog](https://usmanisbusy.hashnode.dev/) where I share insights and learnings.
+
+ 
+    
+ 
+## ✨ Fun Facts 
+
+- Attack on Titan is my favorite anime.
+- As a kid, I wanted to be an astronaut.
+- I Play Valorant.
+
+## 📫 Contact
+
+ For a quick response, DM me on [Instagram](https://www.instagram.com/usman_.code/) or [LinkedIn](https://www.linkedin.com/in/usman-javed-a715a72a0/). 
